@@ -1,0 +1,16 @@
+body {
+    color: #3a3a3a;
+    font-family: 'Gentium Book Basic', 'Palatino', Georgia, serif;
+    font-size: 16pt;
+    line-height: 160%;
+    font-weight: 400;
+}
+
+div#main-wrapper {
+    width: 800px;
+    margin: auto;
+}
+
+div#main-wrapper h1 {
+    text-align: center;
+}
